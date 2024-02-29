@@ -1,7 +1,7 @@
 # Code Refactor Starter Code
 
 ## Description 
-Module 1 challenge
+Module 1 challenge - refactoring HTML and CSS using semantic HTML and grouping CSS selectors.
 
 ## Installation
 N/A
