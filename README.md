@@ -1,7 +1,7 @@
 # Code Refactor Starter Code
 
 ## Description 
-Module 1 challenge
+Module 1 challenge. Updated HTML and CSS attempting to follow best semantic practices and reduce redundancy in CSS.
 
 ## Installation
 N/A
@@ -15,4 +15,4 @@ https://github.com/Georgeyoo
 
 ## License
 
-Please refer to the LICENSE in the repo.
+N/A
