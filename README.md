@@ -1,7 +1,7 @@
 # Code Refactor Starter Code
 
 ## Description 
-Module 1 challenge. Updated HTML and CSS attempting to follow best semantic practices and reduce redundancy in CSS.
+Module 1 challenge
 
 ## Installation
 N/A
